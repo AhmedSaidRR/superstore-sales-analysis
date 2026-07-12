@@ -58,7 +58,11 @@ These charts represent the visual insights built into the **Excel Dashboard** an
 
 ### 3. Territorial Analysis
 *Locating geographic regions with the strongest contribution:*
-![Territorial Performance](./dashboard/images/regional_performance.png)
+![Territorial Performance](./dashboard/images/regional_performance.png) 
+
+### 4. Power BI Interactive Dashboard
+*A complete interactive view of overall business performance:*
+![Power BI Dashboard](./dashboard/images/Power%20BI%20Interactive%20Dashboard.png)
 
 ---
 
