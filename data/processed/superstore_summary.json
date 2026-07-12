@@ -1,0 +1,394 @@
+{
+    "kpis": {
+        "total_sales": 2297200.8603,
+        "total_profit": 286397.0217,
+        "total_orders": 5009,
+        "profit_margin": 12.467217240315605,
+        "average_discount": 0.1562027216329798
+    },
+    "monthly_trend": [
+        {
+            "month": "2014-01",
+            "sales": 14236.895,
+            "profit": 2450.1907
+        },
+        {
+            "month": "2014-02",
+            "sales": 4519.892,
+            "profit": 862.3084
+        },
+        {
+            "month": "2014-03",
+            "sales": 55691.009,
+            "profit": 498.72989999999993
+        },
+        {
+            "month": "2014-04",
+            "sales": 28295.345,
+            "profit": 3488.8352
+        },
+        {
+            "month": "2014-05",
+            "sales": 23648.287,
+            "profit": 2738.7096
+        },
+        {
+            "month": "2014-06",
+            "sales": 34595.1276,
+            "profit": 4976.5244
+        },
+        {
+            "month": "2014-07",
+            "sales": 33946.393,
+            "profit": -841.4826000000002
+        },
+        {
+            "month": "2014-08",
+            "sales": 27909.4685,
+            "profit": 5318.105
+        },
+        {
+            "month": "2014-09",
+            "sales": 81777.3508,
+            "profit": 8328.0994
+        },
+        {
+            "month": "2014-10",
+            "sales": 31453.393,
+            "profit": 3448.2573
+        },
+        {
+            "month": "2014-11",
+            "sales": 78628.7167,
+            "profit": 9292.1269
+        },
+        {
+            "month": "2014-12",
+            "sales": 69545.6205,
+            "profit": 8983.5699
+        },
+        {
+            "month": "2015-01",
+            "sales": 18174.0756,
+            "profit": -3281.007
+        },
+        {
+            "month": "2015-02",
+            "sales": 11951.411,
+            "profit": 2813.8508
+        },
+        {
+            "month": "2015-03",
+            "sales": 38726.252,
+            "profit": 9732.0978
+        },
+        {
+            "month": "2015-04",
+            "sales": 34195.2085,
+            "profit": 4187.4962
+        },
+        {
+            "month": "2015-05",
+            "sales": 30131.6865,
+            "profit": 4667.869
+        },
+        {
+            "month": "2015-06",
+            "sales": 24797.292,
+            "profit": 3335.5572
+        },
+        {
+            "month": "2015-07",
+            "sales": 28765.325,
+            "profit": 3288.6483
+        },
+        {
+            "month": "2015-08",
+            "sales": 36898.3322,
+            "profit": 5355.8084
+        },
+        {
+            "month": "2015-09",
+            "sales": 64595.918,
+            "profit": 8209.162699999999
+        },
+        {
+            "month": "2015-10",
+            "sales": 31404.9235,
+            "profit": 2817.366
+        },
+        {
+            "month": "2015-11",
+            "sales": 75972.5635,
+            "profit": 12474.7884
+        },
+        {
+            "month": "2015-12",
+            "sales": 74919.5212,
+            "profit": 8016.9659
+        },
+        {
+            "month": "2016-01",
+            "sales": 18542.491,
+            "profit": 2824.8233
+        },
+        {
+            "month": "2016-02",
+            "sales": 22978.815000000002,
+            "profit": 5004.5795
+        },
+        {
+            "month": "2016-03",
+            "sales": 51715.875,
+            "profit": 3611.9680000000003
+        },
+        {
+            "month": "2016-04",
+            "sales": 38750.039,
+            "profit": 2977.8149
+        },
+        {
+            "month": "2016-05",
+            "sales": 56987.728,
+            "profit": 8662.1464
+        },
+        {
+            "month": "2016-06",
+            "sales": 40344.534,
+            "profit": 4750.3781
+        },
+        {
+            "month": "2016-07",
+            "sales": 39261.963,
+            "profit": 4432.8778999999995
+        },
+        {
+            "month": "2016-08",
+            "sales": 31115.3743,
+            "profit": 2062.0693
+        },
+        {
+            "month": "2016-09",
+            "sales": 73410.0249,
+            "profit": 9328.6576
+        },
+        {
+            "month": "2016-10",
+            "sales": 59687.745,
+            "profit": 16243.1425
+        },
+        {
+            "month": "2016-11",
+            "sales": 79411.9658,
+            "profit": 4011.4075
+        },
+        {
+            "month": "2016-12",
+            "sales": 96999.043,
+            "profit": 17885.3093
+        },
+        {
+            "month": "2017-01",
+            "sales": 43971.374,
+            "profit": 7140.4391
+        },
+        {
+            "month": "2017-02",
+            "sales": 20301.1334,
+            "profit": 1613.872
+        },
+        {
+            "month": "2017-03",
+            "sales": 58872.3528,
+            "profit": 14751.8915
+        },
+        {
+            "month": "2017-04",
+            "sales": 36521.5361,
+            "profit": 933.2900000000001
+        },
+        {
+            "month": "2017-05",
+            "sales": 44261.1102,
+            "profit": 6342.5828
+        },
+        {
+            "month": "2017-06",
+            "sales": 52981.7257,
+            "profit": 8223.3357
+        },
+        {
+            "month": "2017-07",
+            "sales": 45264.416,
+            "profit": 6952.6212
+        },
+        {
+            "month": "2017-08",
+            "sales": 63120.888,
+            "profit": 9040.9557
+        },
+        {
+            "month": "2017-09",
+            "sales": 87866.652,
+            "profit": 10991.5556
+        },
+        {
+            "month": "2017-10",
+            "sales": 77776.9232,
+            "profit": 9275.2755
+        },
+        {
+            "month": "2017-11",
+            "sales": 118447.825,
+            "profit": 9690.1037
+        },
+        {
+            "month": "2017-12",
+            "sales": 83829.3188,
+            "profit": 8483.346800000001
+        }
+    ],
+    "category_summary": [
+        {
+            "category": "Technology",
+            "sales": 836154.033,
+            "profit": 145454.9481
+        },
+        {
+            "category": "Furniture",
+            "sales": 741999.7953,
+            "profit": 18451.2728
+        },
+        {
+            "category": "Office Supplies",
+            "sales": 719047.032,
+            "profit": 122490.8008
+        }
+    ],
+    "region_summary": [
+        {
+            "region": "West",
+            "sales": 725457.8245,
+            "profit": 108418.4489
+        },
+        {
+            "region": "East",
+            "sales": 678781.24,
+            "profit": 91522.78
+        },
+        {
+            "region": "Central",
+            "sales": 501239.8908,
+            "profit": 39706.3625
+        },
+        {
+            "region": "South",
+            "sales": 391721.905,
+            "profit": 46749.4303
+        }
+    ],
+    "top_products": [
+        {
+            "product_name": "Canon imageCLASS 2200 Advanced Copier",
+            "sales": 61599.824,
+            "profit": 25199.928
+        },
+        {
+            "product_name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "sales": 27453.384000000002,
+            "profit": 7753.039
+        },
+        {
+            "product_name": "Hewlett Packard LaserJet 3310 Copier",
+            "sales": 18839.686,
+            "profit": 6983.8836
+        },
+        {
+            "product_name": "Canon PC1060 Personal Laser Copier",
+            "sales": 11619.834,
+            "profit": 4570.9347
+        },
+        {
+            "product_name": "HP Designjet T520 Inkjet Large Format Printer - 24\" Color",
+            "sales": 18374.895,
+            "profit": 4094.9766
+        },
+        {
+            "product_name": "Ativa V4110MDD Micro-Cut Shredder",
+            "sales": 7699.89,
+            "profit": 3772.9461
+        },
+        {
+            "product_name": "3D Systems Cube Printer, 2nd Generation, Magenta",
+            "sales": 14299.89,
+            "profit": 3717.9714000000004
+        },
+        {
+            "product_name": "Plantronics Savi W720 Multi-Device Wireless Headset System",
+            "sales": 9367.289999999999,
+            "profit": 3696.2819999999997
+        },
+        {
+            "product_name": "Ibico EPK-21 Electric Binding System",
+            "sales": 15875.916000000001,
+            "profit": 3345.2823
+        },
+        {
+            "product_name": "Zebra ZM400 Thermal Label Printer",
+            "sales": 6965.700000000001,
+            "profit": 3343.536
+        }
+    ],
+    "bottom_products": [
+        {
+            "product_name": "Cubify CubeX 3D Printer Double Head Print",
+            "sales": 11099.963,
+            "profit": -8879.9704
+        },
+        {
+            "product_name": "Lexmark MX611dhe Monochrome Laser Printer",
+            "sales": 16829.901,
+            "profit": -4589.973
+        },
+        {
+            "product_name": "Cubify CubeX 3D Printer Triple Head Print",
+            "sales": 7999.98,
+            "profit": -3839.9904
+        },
+        {
+            "product_name": "Chromcraft Bull-Nose Wood Oval Conference Tables & Bases",
+            "sales": 9917.640000000001,
+            "profit": -2876.1156
+        },
+        {
+            "product_name": "Bush Advantage Collection Racetrack Conference Table",
+            "sales": 9544.725,
+            "profit": -1934.3976
+        },
+        {
+            "product_name": "GBC DocuBind P400 Electric Binding System",
+            "sales": 17965.068,
+            "profit": -1878.1662000000003
+        },
+        {
+            "product_name": "Cisco TelePresence System EX90 Videoconferencing Unit",
+            "sales": 22638.48,
+            "profit": -1811.0784
+        },
+        {
+            "product_name": "Martin Yale Chadless Opener Electric Letter Opener",
+            "sales": 16656.2,
+            "profit": -1299.1836
+        },
+        {
+            "product_name": "Balt Solid Wood Round Tables",
+            "sales": 6518.754,
+            "profit": -1201.0581
+        },
+        {
+            "product_name": "BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables",
+            "sales": 1706.25,
+            "profit": -1148.4375
+        }
+    ]
+}
