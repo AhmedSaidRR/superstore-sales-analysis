@@ -1,4 +1,4 @@
-# Superstore Retail Sales & Profitability Analysis Portfolio Project
+# Superstore Retail Sales & Profitability Analysis
 
 [![SQL](https://img.shields.io/badge/SQL-SQLite%20%7C%20PostgreSQL-336791?style=for-the-badge&logo=postgresql)](./sql/)
 [![Excel](https://img.shields.io/badge/Excel-Dashboard%20%7C%20PivotTables-217346?style=for-the-badge&logo=microsoft-excel)](./excel/)
